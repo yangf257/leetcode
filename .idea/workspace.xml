@@ -4,10 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0a27013-ea61-4d9b-ab77-bb8300189208" name="Changes" comment="6.26">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="c0a27013-ea61-4d9b-ab77-bb8300189208" name="Changes" comment="6.26 lc算法">
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql10.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql11.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql12.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql13.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql14.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql15.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql16.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql17.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql18.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql19.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql20.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql3.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql36.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql37.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql38.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql4.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql5.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql6.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql7.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql8.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql9.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/leetcode/L_80_RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/L_80_RemoveDuplicatesFromSortedArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +114,7 @@
       <option name="presentableId" value="Default" />
       <updated>1687764294002</updated>
       <workItem from="1687764295632" duration="1889000" />
-      <workItem from="1687766842579" duration="1960000" />
+      <workItem from="1687766842579" duration="6563000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1687764961224</created>
@@ -109,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687766821615</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="6.26 lc算法">
+      <created>1687768961307</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687768961307</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +146,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="111" />
     <MESSAGE value="6.26" />
-    <option name="LAST_COMMIT_MESSAGE" value="6.26" />
+    <MESSAGE value="6.26 lc算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.26 lc算法" />
   </component>
 </project>
