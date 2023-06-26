@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0a27013-ea61-4d9b-ab77-bb8300189208" name="Changes" comment="6.26 lc算法">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql1.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql10.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql11.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql12.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql13.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql14.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql15.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql16.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql17.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql18.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql19.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql2.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql20.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql3.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql36.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql37.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql38.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql4.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql5.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql6.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql7.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql8.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql9.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql21.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,25 +31,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "false",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/LeetCode/src/leetcode" />
@@ -115,6 +93,7 @@
       <updated>1687764294002</updated>
       <workItem from="1687764295632" duration="1889000" />
       <workItem from="1687766842579" duration="6563000" />
+      <workItem from="1687792515184" duration="948000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1687764961224</created>
