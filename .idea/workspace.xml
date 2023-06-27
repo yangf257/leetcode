@@ -4,23 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0a27013-ea61-4d9b-ab77-bb8300189208" name="Changes" comment="6.26 lc算法">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/L_1186_MaximumSubarraySumWithOneDeletion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/L_1207_UniqueNumberOfOccurrences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/L_2215_FindTheDifferenceOfTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/L_724_FindPivotIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/dynamicProgramming/L_53.java" afterDir="false" />
+    <list default="true" id="c0a27013-ea61-4d9b-ab77-bb8300189208" name="Changes" comment="6.27 lc每日一题">
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql22.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql23.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql24.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql25.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql26.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql27.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql28.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql34.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql39.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/leetcode/L_1184.sql" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_1184.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/leetcode/L_175.sql" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_175.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/leetcode/L_176.sql" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_176.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/leetcode/L_177.sql" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_177.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/leetcode/L_178.sql" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_178.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/leetcode/L_181.sql" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_181.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/leetcode/L_182.sql" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_182.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/leetcode/L_183.sql" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_183.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/leetcode/L_197.sql" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_197.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/leetcode/L_595.sql" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_595.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687768961307</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="6.27 lc每日一题">
+      <created>1687850169917</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687850169917</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,7 +195,8 @@
     <MESSAGE value="111" />
     <MESSAGE value="6.26" />
     <MESSAGE value="6.26 lc算法" />
-    <option name="LAST_COMMIT_MESSAGE" value="6.26 lc算法" />
+    <MESSAGE value="6.27 lc每日一题" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.27 lc每日一题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -203,6 +205,11 @@
           <url>file://$PROJECT_DIR$/LeetCode/src/leetcode/dynamicProgramming/L_53.java</url>
           <line>17</line>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/leetcode/L_1207_UniqueNumberOfOccurrences.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
