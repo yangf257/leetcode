@@ -1,4 +1,4 @@
-package leetcode.array.removeElement;
+package leetcode.array;
 
 /**
  * @Description
