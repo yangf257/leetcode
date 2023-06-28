@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0a27013-ea61-4d9b-ab77-bb8300189208" name="Changes" comment="6.27 lc每日一题">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql22.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql23.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql24.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql25.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql26.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql27.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql28.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql34.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql39.sql" afterDir="false" />
+    <list default="true" id="c0a27013-ea61-4d9b-ab77-bb8300189208" name="Changes" comment="6.27 sql">
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql29.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql30.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql31.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql32.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql33.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partOne/sql35.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687850169917</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="6.27 sql">
+      <created>1687867615288</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687867615288</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,7 +200,8 @@
     <MESSAGE value="6.26" />
     <MESSAGE value="6.26 lc算法" />
     <MESSAGE value="6.27 lc每日一题" />
-    <option name="LAST_COMMIT_MESSAGE" value="6.27 lc每日一题" />
+    <MESSAGE value="6.27 sql" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.27 sql" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
