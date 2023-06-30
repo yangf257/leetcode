@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0a27013-ea61-4d9b-ab77-bb8300189208" name="Changes" comment="6.28 算法题">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/chainList/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/L_1253_Reconstruct2RowBinaryMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/L_1768_MergeStringsAlternately.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/L_2490_CircularSentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/L_605_CanPlaceFlowers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/leetcode/chainList/L_203.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/chainList/L_203.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,9 +62,9 @@
       <recent name="leetcode.array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyLinkedList">
-    <configuration name="L_1186_MaximumSubarraySumWithOneDeletion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.L_1186_MaximumSubarraySumWithOneDeletion" />
+  <component name="RunManager" selected="Application.L_2490_CircularSentence">
+    <configuration name="L_1207_UniqueNumberOfOccurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.L_1207_UniqueNumberOfOccurrences" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +76,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L_1207_UniqueNumberOfOccurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.L_1207_UniqueNumberOfOccurrences" />
+    <configuration name="L_1253_Reconstruct2RowBinaryMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.L_1253_Reconstruct2RowBinaryMatrix" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L_2490_CircularSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.L_2490_CircularSentence" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -100,19 +115,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L_53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.dynamicProgramming.L_53" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.dynamicProgramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.chainList.MyLinkedList" />
       <module name="LeetCode" />
@@ -128,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.L_2490_CircularSentence" />
+        <item itemvalue="Application.L_1253_Reconstruct2RowBinaryMatrix" />
         <item itemvalue="Application.MyLinkedList" />
         <item itemvalue="Application.L_443_StringCompression" />
         <item itemvalue="Application.L_1207_UniqueNumberOfOccurrences" />
-        <item itemvalue="Application.L_53" />
-        <item itemvalue="Application.L_1186_MaximumSubarraySumWithOneDeletion" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +149,7 @@
       <workItem from="1687764295632" duration="1889000" />
       <workItem from="1687766842579" duration="6563000" />
       <workItem from="1687792515184" duration="948000" />
-      <workItem from="1687944208988" duration="3034000" />
+      <workItem from="1687944208988" duration="7740000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1687764961224</created>
@@ -198,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687944731709</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="6.28 算法题">
+      <created>1687953451605</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1687953451605</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,6 +266,11 @@
           <url>file://$PROJECT_DIR$/LeetCode/src/leetcode/L_443_StringCompression.java</url>
           <line>52</line>
           <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/leetcode/L_2490_CircularSentence.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
