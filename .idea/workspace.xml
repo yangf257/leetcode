@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0a27013-ea61-4d9b-ab77-bb8300189208" name="Changes" comment="6.30 算法题">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/L_2194_CellsInRangeOnExcelSheet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/L_2679_SumInMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/chainList/L_142.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/chainList/L_160.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/chainList/L_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/chainList/L_206.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/chainList/L_24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/chainList/ListNode.java" afterDir="false" />
+    <list default="true" id="c0a27013-ea61-4d9b-ab77-bb8300189208" name="Changes" comment="7.4 算法题">
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/L_1679_MaxNumberOfKSumPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/L_392_IsSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/hashTable/L_242.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/hashTable/L_383.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_1683.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_1757.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_584.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -153,7 +152,7 @@
       <workItem from="1687764295632" duration="1889000" />
       <workItem from="1687766842579" duration="6563000" />
       <workItem from="1687792515184" duration="948000" />
-      <workItem from="1687944208988" duration="14714000" />
+      <workItem from="1687944208988" duration="19261000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1687764961224</created>
@@ -218,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688105512662</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="7.4 算法题">
+      <created>1688454069559</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1688454069559</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,7 +250,8 @@
     <MESSAGE value="6.28 sql" />
     <MESSAGE value="6.28 算法题" />
     <MESSAGE value="6.30 算法题" />
-    <option name="LAST_COMMIT_MESSAGE" value="6.30 算法题" />
+    <MESSAGE value="7.4 算法题" />
+    <option name="LAST_COMMIT_MESSAGE" value="7.4 算法题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
