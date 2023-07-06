@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0a27013-ea61-4d9b-ab77-bb8300189208" name="Changes" comment="7.4 算法题+sql">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/L_2600_KItemsWithMaximumSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_1068.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_1581.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_1661.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_1280.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_1934.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_570.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_577.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_620.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/test.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +26,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -150,7 +157,7 @@
       <workItem from="1687764295632" duration="1889000" />
       <workItem from="1687766842579" duration="6563000" />
       <workItem from="1687792515184" duration="948000" />
-      <workItem from="1687944208988" duration="22622000" />
+      <workItem from="1687944208988" duration="26053000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1687764961224</created>
@@ -229,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688472138331</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="7.4 算法题+sql">
+      <created>1688538820268</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1688538820268</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
