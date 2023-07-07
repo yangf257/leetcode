@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0a27013-ea61-4d9b-ab77-bb8300189208" name="Changes" comment="7.6 sql">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_1075.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_1141.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_1633.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_1729.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_2356.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_596.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_1045.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_1084.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_1174.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_1193.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_1211.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_1251.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_550.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/leetcode/test.json" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/test.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +158,7 @@
       <workItem from="1687764295632" duration="1889000" />
       <workItem from="1687766842579" duration="6563000" />
       <workItem from="1687792515184" duration="948000" />
-      <workItem from="1687944208988" duration="28649000" />
+      <workItem from="1687944208988" duration="33317000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1687764961224</created>
@@ -251,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688624434215</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="7.6 sql">
+      <created>1688644839088</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1688644839088</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
