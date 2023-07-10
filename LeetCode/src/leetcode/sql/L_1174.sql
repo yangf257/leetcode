@@ -1,8 +1,6 @@
-select round(count(order_date) * 100 / (select count(1)
-                                        from (select min(order_date) as 'order_date'
-                                              from Delivery
-                                              group by customer_id) as b), 2) as 'immediate_percentage'
-from (select delivery_id, customer_id, min(order_date) as 'order_date', customer_pref_delivery_date
-      from Delivery
-      group by customer_id) as a
-where order_date = customer_pref_delivery_date
+select round(sum(if(order_date = customer_pref_delivery_date, 1, 0)) / count(*) * 100, 2) as 'immediate_percentage'
+from Delivery
+where (customer_id, order_date) in (select customer_id,
+                                           min(order_date)
+                                    from Delivery
+                                    group by customer_id);
