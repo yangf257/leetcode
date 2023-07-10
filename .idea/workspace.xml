@@ -4,18 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0a27013-ea61-4d9b-ab77-bb8300189208" name="Changes" comment="7.7 sql">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/L_1071_GreatestCommonDivisorOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/L_2768_NumberOfBlackBlocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/L_2769_FindTheMaximumAchievableNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/hashTable/L_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/hashTable/L_202.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/hashTable/L_349.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/hashTable/L_350.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/hashTable/L_438.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/hashTable/L_49.java" afterDir="false" />
+    <list default="true" id="c0a27013-ea61-4d9b-ab77-bb8300189208" name="Changes" comment="7.10 算法">
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/L_2729_IsCharming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/L_2733_NeitherMinimumNorMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partTwo/sql60.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partTwo/sql61.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partTwo/sql62.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partTwo/sql63.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partTwo/sql64.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/sql/partTwo/sql65.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_1174.sql" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/sql/L_1174.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +159,7 @@
       <workItem from="1687764295632" duration="1889000" />
       <workItem from="1687766842579" duration="6563000" />
       <workItem from="1687792515184" duration="948000" />
-      <workItem from="1687944208988" duration="42747000" />
+      <workItem from="1687944208988" duration="44405000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1687764961224</created>
@@ -268,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688715413923</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="7.10 算法">
+      <created>1688978336087</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1688978336087</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,7 +303,8 @@
     <MESSAGE value="7.4 算法题+sql" />
     <MESSAGE value="7.6 sql" />
     <MESSAGE value="7.7 sql" />
-    <option name="LAST_COMMIT_MESSAGE" value="7.7 sql" />
+    <MESSAGE value="7.10 算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="7.10 算法" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
