@@ -6,10 +6,10 @@ package leetcode.chainList;
  * @Date 2023/6/30 14:59
  **/
 public class ListNode {
-    int val;
-    ListNode next;
+    public int val;
+    public ListNode next;
 
-    ListNode() {
+    public ListNode() {
     }
 
     ListNode(int val) {
